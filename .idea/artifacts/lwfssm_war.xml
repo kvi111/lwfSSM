@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lwfssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lwfssm.war">
+      <element id="artifact" artifact-name="lwfssm:war exploded" />
+    </root>
+  </artifact>
+</component>
